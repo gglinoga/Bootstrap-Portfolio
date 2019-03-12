@@ -1,0 +1,51 @@
+body {
+    background-image: url(../images/carbon.png);
+    z-index: 1;
+}
+
+.container {
+   
+    background: #ffffff;
+    z-index: 1000;
+    position: relative;
+    top: 30pt;
+}
+
+.h1 {
+    position: relative;
+    left: 10pt;
+    color: #4aaaa5;    
+    font-weight: bold;
+}
+
+.navbar-brand {
+    background-color: #4aaaa5;
+    padding: 20px;
+    margin: 0;
+    border: 0;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: #ffffff
+}
+
+.nav-link {
+    font-size:x-large;
+    padding: 20px;
+    
+  
+   }
+
+.btn-primary, .btn-primary:hover, .btn-primary:visited {
+    background: #4aaaa5;
+}
+
+.navbar-nav mr-auto {
+    font-size: large;
+}
+
+.navbar-expand-sm,.navbar-expand-md,.navbar,.navbar-expand-lg,.navbar-expand-xl,.navbar-light,.bg-light{
+    margin: 0;
+    border: 0;
+    padding: 0;
+}
+
