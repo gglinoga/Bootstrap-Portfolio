@@ -31,8 +31,7 @@ body {
 .nav-link {
     font-size:x-large;
     padding: 20px;
-    
-  
+     
    }
 
 .btn-primary, .btn-primary:hover, .btn-primary:visited {
@@ -48,4 +47,15 @@ body {
     border: 0;
     padding: 0;
 }
+
+.footer {
+    text-align: center;
+    background: #777777;
+    border-top: thick solid #4aaaa5;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+}
+
 
